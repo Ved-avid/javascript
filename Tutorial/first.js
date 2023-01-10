@@ -1,1 +1,4 @@
-var y = 5;
+let firstName = "Ved";
+let lastName = "Singh";
+console.log(firstName + " " + lastName);
+
